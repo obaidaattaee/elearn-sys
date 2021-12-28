@@ -1,11 +1,11 @@
 <?php return array(
     'root' => array(
-        'pretty_version' => '1.0.0+no-version-set',
-        'version' => '1.0.0.0',
+        'pretty_version' => 'dev-main',
+        'version' => 'dev-main',
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
-        'reference' => NULL,
+        'reference' => '23ae89f1d3f4418d2a208d81b748c6ae570672f9',
         'name' => 'rappasoft/laravel-5-boilerplate',
         'dev' => true,
     ),
@@ -1581,12 +1581,12 @@
             'dev_requirement' => false,
         ),
         'rappasoft/laravel-5-boilerplate' => array(
-            'pretty_version' => '1.0.0+no-version-set',
-            'version' => '1.0.0.0',
+            'pretty_version' => 'dev-main',
+            'version' => 'dev-main',
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
-            'reference' => NULL,
+            'reference' => '23ae89f1d3f4418d2a208d81b748c6ae570672f9',
             'dev_requirement' => false,
         ),
         'rhumsaa/uuid' => array(
